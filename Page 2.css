@@ -1,0 +1,48 @@
+h1{
+    color: white;
+    text-align: center;
+    letter-spacing: 20px;
+    background-color: black;
+    width: auto;
+    padding: 50px;
+    border: 10px solid lime;
+    margin: 40px;
+    box-shadow: 20px -20px 5px blueviolet;
+}
+
+h3{
+    text-align: center;
+    background-color: cadetblue;
+    width: auto;
+    padding: 20px;
+    border: 10px solid blueviolet;
+    margin: 40px;
+    box-shadow: 20px 20px 5px greenyellow;
+}
+
+span.a {
+    display: inline;
+    width: 100px;
+    height: 200px;
+    padding: 8px;
+    border: 8.8px solid brown;
+    background-color: red;
+}
+
+span.b {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    padding: 15px;
+    border: 7.7px solid royalblue;
+    background-color: lawngreen;
+}
+
+span.c {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    padding: 111px;
+    border: 11.11px solid peachpuff;
+    background-color: darkkhaki;
+}
